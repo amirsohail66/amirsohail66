@@ -68,6 +68,7 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=amirsohail66
 <p align="center">
   <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?sohail_amir=d3l1l4h" width="400"/>
+  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?sohail_amir=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 </a>
  </p>
  <div align="center">
