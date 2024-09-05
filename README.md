@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirsohail66&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://profile-counter.glitch.me/amirsohail66/count.svg" alt="Profile views">
 </p>
 
 <div align="center">
