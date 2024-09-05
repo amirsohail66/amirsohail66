@@ -1,79 +1,102 @@
-# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;It's+Amir+Sohail....;Nice+to+e-meet+you!&center=true&size=30)</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amir+Sohail....;Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff">
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-Backend%20Specialist-blue?style=for-the-badge&color=0366d6" alt="Software Engineer - Backend Specialist">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirsohail66&style=flat-square&color=blue" alt="Profile views">
+</p>
 
 <div align="center">
-
-## Visitor's Count
-![Visitor Count](https://profile-counter.glitch.me/amirsohail66/count.svg)
-
-## Connect with me 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirsohailmd/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Delilahx0x0)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AMIRSOH0590987)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir.sohail1/)
-
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirsohailmd/)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Delilahx0x0)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AMIRSOH0590987)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amir.sohail1/)
+  
 </div>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400px"/>
+<hr>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 ## 💻 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Cloud Services & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+
+<hr>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirsohail66&show_icons=true&theme=github_dark" alt="Amir's GitHub stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats-xi-rosy-19.vercel.app/api?username=amirsohail66&show_icons=true&hide_border=true&count_private=true&bg_color=0,Ef4050,Cf6561&title_color=000000&text_color=000000&icon_color=000000)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsohail66&theme=github-dark-blue" alt="Amir's GitHub Streak" />
+</p>
 
-### Contribution Streak 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirsohail66&theme=dark&hide_border=true&background=0D1117&stroke=0000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsohail66&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
-### Contribution Graph 🌱
-![Amir Sohail's GitHub Contributions](https://github.com/users/amirsohail66/contributions)
+## 🏆 GitHub Trophies
 
-### LeetCode Stats 🏆
-![LeetCode Stats](https://leetcode.card.workers.dev/sohail_amir?theme=dark&font=baloo&extension=null)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amirsohail66&theme=darkhub&no-frame=true&margin-w=15" alt="Amir's GitHub Trophies" />
+</p>
 
-### Top Languages 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=amirsohail66&show_icons=true&locale=en&count-private=true&theme=tokyonight)
+## 📈 Contribution Graph
 
-### Trophies 🏆
-[![trophy](https://github-profile-trophy.vercel.app/?username=amirsohail66&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsohail66&theme=github-compact" alt="Amir's Contribution Graph" />
+</p>
 
-</div>
+## 🏆 LeetCode Stats
 
-## 😄 Programming Humor
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/sohail_amir?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" />
+</p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+<hr>
+
+<h2 align="center">😄 Programming Humor</h2>
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</p>
+
+<h2 align="center">👨‍💻 Happy Coding! 👨‍💻</h2>
