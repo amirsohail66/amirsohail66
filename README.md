@@ -61,7 +61,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirsohail66&theme=dark&hide_border=true&background=0D1117&stroke=0000)](https://git.io/streak-stats)
 
 ### Contribution Graph 🌱
-[![Amir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amirsohail66&theme=xcode)](https://github.com/amirsohail66)
+![Amir Sohail's GitHub Contributions](https://github.com/users/amirsohail66/contributions)
 
 ### LeetCode Stats 🏆
 ![LeetCode Stats](https://leetcode.card.workers.dev/sohail_amir?theme=dark&font=baloo&extension=null)
