@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amir+Sohail's+GitHub!;Full+Stack+Developer;Problem+Solver;Continuous+Learner&center=true&size=30&color=58a6ff&background=45%2C234046%2C000000">
+  <h1>Welcome to Amir Sohail's GitHub! 👋</h1>
+  <p><em>Full Stack Developer | Problem Solver | Continuous Learner</em></p>
+  <img src="https://profile-counter.glitch.me/amirsohail66/count.svg" alt="Profile Views" />
 </div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22)&center=true&size=27&width=550">
-  </a>
-</h1>
+---
+
+<div align="center">
+  <h2><a href="https://git.io/typing-svg">Hello, World in Multiple Languages 🌍</a></h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&lines=console.log(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22)" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&color=0366d6" alt="Full Stack Developer">
@@ -19,17 +22,13 @@
   <a href="https://www.instagram.com/amirsohail.in/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirsohail66&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
-</p>
-
 ---
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 ## 🚀 About Me
 
-Passionate Full Stack Developer with a knack for crafting end-to-end solutions. I thrive on building robust backend systems and creating intuitive frontend experiences. My expertise lies in developing scalable applications that seamlessly integrate cutting-edge technologies to solve complex problems.
+I'm a passionate Full Stack Developer with a knack for crafting end-to-end solutions. I thrive on building robust backend systems and creating intuitive frontend experiences. My expertise lies in developing scalable applications that seamlessly integrate cutting-edge technologies to solve complex problems.
 
 ## 💻 Tech Stack
 
@@ -40,7 +39,6 @@ Passionate Full Stack Developer with a knack for crafting end-to-end solutions. 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -48,7 +46,6 @@ Passionate Full Stack Developer with a knack for crafting end-to-end solutions. 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
