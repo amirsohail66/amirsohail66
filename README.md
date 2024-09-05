@@ -64,7 +64,7 @@
 [![Amir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amirsohail66&theme=xcode)](https://github.com/amirsohail66)
 
 ### LeetCode Stats 🏆
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=sohail_amir&theme=dark)
+![LeetCode Stats](https://leetcode.card.workers.dev/sohail_amir?theme=dark&font=baloo&extension=null)
 
 ### Top Languages 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=amirsohail66&show_icons=true&locale=en&count-private=true&theme=tokyonight)
