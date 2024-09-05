@@ -1,27 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Amir+Sohail....;Welcome+to+my+GitHub!&center=true&size=30&color=58a6ff">
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Backend%20Specialist-blue?style=for-the-badge&color=0366d6" alt="Software Engineer - Backend Specialist">
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/amirsohail66/count.svg" alt="Profile views">
-</p>
+# <div align="center">👨‍💻 Amir Sohail | Backend Specialist 👨‍💻</div>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirsohailmd/)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sohail_amir/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AMIRSOH0590987)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirsohail.in/)
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Backend+Enthusiast;Problem+Solver;Continuous+Learner&center=true&size=25&color=58a6ff">
 </div>
 
-<hr>
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-Backend%20Specialist-blue?style=for-the-badge&color=0366d6" alt="Software Engineer - Backend Specialist">
+  <br><br>
+  <a href="https://www.linkedin.com/in/amirsohailmd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/sohail_amir/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://twitter.com/AMIRSOH0590987"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.instagram.com/amirsohail.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amirsohail66/count.svg" alt="Profile views">
+</div>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+
+## 🚀 About Me
+
+Passionate backend developer with a knack for building robust and scalable systems. I thrive on solving complex problems and continuously learning new technologies. My expertise lies in creating efficient backend solutions that power seamless user experiences.
 
 ## 💻 Tech Stack
 
@@ -58,47 +60,49 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 
-<hr>
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirsohail66&show_icons=true&theme=github_dark" alt="Amir's GitHub stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirsohail66&theme=github-dark-blue" alt="Amir's GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirsohail66&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+</div>
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amirsohail66&theme=darkhub&no-frame=true&margin-w=15" alt="Amir's GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amirsohail66&theme=darkhub&no-frame=true&margin-w=15&column=4" alt="Amir's GitHub Trophies" />
+</div>
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/amirsohail66">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsohail66&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Amir's GitHub Activity Graph">
   </a>
-</p>
+</div>
 
 ## 🏆 LeetCode Stats
 
-<p align="center">
+<div align="center">
   <img src="https://leetcode.card.workers.dev/sohail_amir?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" />
-</p>
+</div>
 
-<hr>
+---
 
-<h2 align="center">😄 Programming Humor</h2>
-<p align="center">
+<div align="center">
+  <h2>😄 Programming Humor</h2>
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
-</p>
+</div>
 
-<h2 align="center">👨‍💻 Happy Coding! 👨‍💻</h2>
+<div align="center">
+  <h2>👨‍💻 Happy Coding! 👨‍💻</h2>
+</div>
