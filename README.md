@@ -116,7 +116,7 @@ focus:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28"> Certifications & Achievements
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI--102-Microsoft%20Azure%20AI%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/>
@@ -130,7 +130,7 @@ focus:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28"> Activity & Metrics
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Activity & Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirsohail66&theme=tokyonight" width="32%" />
@@ -144,7 +144,7 @@ focus:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28"> LeetCode Progress
+## 🎯 LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sohail_amir?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
@@ -152,7 +152,7 @@ focus:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"> Random Dev Quote
+## 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
