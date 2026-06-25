@@ -23,12 +23,13 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amirsohail66&style=for-the-badge&color=0e75b6" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/amirsohail66?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="Followers">
 </p>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
 name: Md Amir Sohail
@@ -46,20 +47,22 @@ focus:
   - Real-Time Systems
 ```
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-- 🔭 Currently building **enterprise SaaS integrations** at **atQor**
-- ☁️ Specialized in **Azure, AWS & GCP** cloud architectures
-- 🛠️ Passionate about **CI/CD, IaC, and serverless** solutions
-- 🧠 Solved **140+ LeetCode** problems
-- 💬 Ask me about **Node.js, React, TypeScript, Cloud Architecture**
-- ⚡ Fun fact: I automate everything — even my coffee order ☕
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20"> Currently building **enterprise SaaS integrations** at **atQor**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="20"> Specialized in **Azure, AWS & GCP** cloud architectures
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="20"> Passionate about **CI/CD, IaC, and serverless** solutions
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="20"> Solved **140+ LeetCode** problems
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="20"> Ask me about **Node.js, React, TypeScript, Cloud Architecture**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"> Fun fact: I automate everything — even my coffee order ☕
 
 <br clear="both">
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+%7C+Backend+%7C+Cloud+%7C+DevOps;React+%7C+Node.js+%7C+Azure+%7C+AWS+%7C+GCP" alt="Tech Typing" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -70,6 +73,12 @@ focus:
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,aws,azure,gcp,docker,terraform,git&theme=dark" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirsohail66&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirsohail66&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirsohail66&theme=tokyonight&utcOffset=5.5" width="32%" />
 </p>
 
 <details>
@@ -88,7 +97,11 @@ focus:
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"> GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirsohail66&theme=tokyonight" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/amirsohail66">
@@ -103,7 +116,7 @@ focus:
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Certifications & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28"> Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI--102-Microsoft%20Azure%20AI%20Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-102"/>
@@ -165,7 +178,7 @@ jobs:
 
 ---
 
-## 🎯 LeetCode Progress
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28"> LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sohail_amir?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
@@ -173,7 +186,7 @@ jobs:
 
 ---
 
-## 💡 Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28"> Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
