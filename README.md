@@ -161,7 +161,7 @@ focus:
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+connect+and+build+together+%F0%9F%A4%9D" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+connect+and+build+together+%F0%9F%A4%9D" alt="Footer Typing" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
