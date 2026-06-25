@@ -130,51 +130,17 @@ focus:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="28"> Activity & Metrics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirsohail66/amirsohail66/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirsohail66/amirsohail66/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/amirsohail66/amirsohail66/output/github-snake-dark.svg" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirsohail66&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amirsohail66&theme=tokyonight&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amirsohail66&theme=tokyonight" width="32%" />
 </p>
 
-> 💡 *To enable the snake animation, add a GitHub Actions workflow to your profile repo. See instructions below.*
-
-<details>
-<summary><b>🔧 How to set up the Snake Animation</b></summary>
-
-Create `.github/workflows/snake.yml` in your `amirsohail66/amirsohail66` repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: amirsohail66
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirsohail66&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
