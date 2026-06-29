@@ -32,7 +32,7 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```yaml
-name: Md Amir Sohail
+name: Amir Sohail
 role: Full Stack Software Engineer
 experience: 3.5+ years
 company: atQor
